@@ -4,5 +4,5 @@ After 2 weeks to seek out which docker image is able to run puppeteer on machine
 
 Download docker image by
 `
-docker pull ttkien/hd-puppeteer-chrome-linux:node16
+docker pull ttkien/puppeteer-chrome-linux:node16
 `
